@@ -40,22 +40,7 @@ motto: "learn, build, experiment, repeat ♡"
 
 
 ### 💌 Let's Connect!
-
-<div align="center">
-
-<a href="mailto:YOUR_EMAIL_HERE">
-<img src="https://img.shields.io/badge/Email-FF80AB?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/nayanika-porel-a81831394/">
-<img src="https://img.shields.io/badge/LinkedIn-FFD166?style=for-the-badge&logo=linkedin&logoColor=333"/>
-</a>
-
-<a href="https://github.com/nayanikaporel-droid">
-<img src="https://img.shields.io/badge/GitHub-FF80AB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
+<br></br>
 
 <i>Thanks for visiting my little corner of GitHub! ♡</i>
 
