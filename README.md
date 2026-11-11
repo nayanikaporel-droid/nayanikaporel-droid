@@ -5,8 +5,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/nayanikaporel-droid/nayanikaporel-droid/main/assets/anime.gif" width="400" alt="Anime GIF"/>
-
+<img src="https://raw.githubusercontent.com/nayanikaporel-droid/nayanikaporel-droid/main/assets/anime.gif" width="300">
 <br/><br/>
 
 <a href="mailto:YOUR_EMAIL_HERE">
@@ -29,25 +28,11 @@
 name: Nayanika Porel
 degree: B.Tech - Computer Science & Business Systems
 
-interests:
-  - Frontend Development
-  - UI/UX Design
-  - Artificial Intelligence
-  - Machine Learning
-  - Creative Problem Solving
-  - Building meaningful tech solutions
-
 currently_learning:
   - Machine Learning Architectures
   - AI & AI-powered Applications
   - AI Programming
   - Web Development
-
-currently_doing:
-  - Exploring new technologies
-  - Building real-world projects
-  - Participating in hackathons
-  - Experimenting with creative ideas
 
 motto: "learn, build, experiment, repeat ♡"
 ```
