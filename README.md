@@ -38,29 +38,6 @@ currently_learning:
 motto: "learn, build, experiment, repeat ♡"
 ```
 
-### 💻 My Tech Stack
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-FFD166?style=flat-square&logo=openjdk&logoColor=333)
-![Python](https://img.shields.io/badge/Python-FF80AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-FFD166?style=flat-square&logo=c&logoColor=333)
-
-**Web Development**
-
-![HTML](https://img.shields.io/badge/HTML5-FF80AB?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-FFD166?style=flat-square&logo=css3&logoColor=333)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF80AB?style=flat-square&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-FFD166?style=flat-square&logo=react&logoColor=333)
-
-**Tools & Design**
-
-![Git](https://img.shields.io/badge/Git-FF80AB?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-FFD166?style=flat-square&logo=github&logoColor=333)
-![Figma](https://img.shields.io/badge/Figma-FF80AB?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-FFD166?style=flat-square&logo=visualstudiocode&logoColor=333)
-
----
 
 ### 💌 Let's Connect!
 
