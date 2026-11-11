@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/nayanikaporel-droid/nayanikaporel-droid/main/assets/anime.gif" width="400" alt="Anime GIF"/>
+<img src="https://raw.githubusercontent.com/nayanikaporel-droid/nayanikaporel-droid/main/download.gif" width="400" alt="Anime GIF"/>
 
 <br/><br/>
 
@@ -29,25 +29,11 @@
 name: Nayanika Porel
 degree: B.Tech - Computer Science & Business Systems
 
-interests:
-  - Frontend Development
-  - UI/UX Design
-  - Artificial Intelligence
-  - Machine Learning
-  - Creative Problem Solving
-  - Building meaningful tech solutions
-
 currently_learning:
   - Machine Learning Architectures
   - AI & AI-powered Applications
   - AI Programming
   - Web Development
-
-currently_doing:
-  - Exploring new technologies
-  - Building real-world projects
-  - Participating in hackathons
-  - Experimenting with creative ideas
 
 motto: "learn, build, experiment, repeat ♡"
 ```
@@ -73,16 +59,6 @@ motto: "learn, build, experiment, repeat ♡"
 ![GitHub](https://img.shields.io/badge/GitHub-FFD166?style=flat-square&logo=github&logoColor=333)
 ![Figma](https://img.shields.io/badge/Figma-FF80AB?style=flat-square&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-FFD166?style=flat-square&logo=visualstudiocode&logoColor=333)
-
----
-
-### 🎀 Things I've Built
-
-| Project | Description |
-|---|---|
-| CAREAI | Healthcare & wellbeing web application |
-| AeroRelief AI | AI-powered cyclone risk and disaster management |
-| Bakery Website | Website development for a real small business |
 
 ---
 
