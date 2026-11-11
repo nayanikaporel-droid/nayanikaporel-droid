@@ -37,13 +37,8 @@ currently_learning:
 
 motto: "learn, build, experiment, repeat ♡"
 ```
-
-
 ### 💌 Let's Connect!
 <br></br>
-
 <i>Thanks for visiting my little corner of GitHub! ♡</i>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF80AB&height=100&section=footer"/>
-
 </div>
